@@ -1,12 +1,12 @@
-### Salut, sunt Ioana
+### Hi, I'm Ioana 👋
 
-Full-Stack Developer (Junior) si studenta in anul III la Informatica (Babes-Bolyai University), pasionata de aplicatii web moderne si integrare AI.
+Third-year Computer Science student at Babeș-Bolyai University (Cluj-Napoca), building full-stack web apps with a focus on AI features. Looking for a **software engineering internship or junior developer role**.
 
-- Am construit SkillPath alaturi de o echipa de 3 developeri (internship Concentrix) - platforma de mentorat cu integrare Google Gemini API, 30+ pull request-uri merge-uite, code review si workflow Agile
-- Locul 1 la TEDIHT Hackathon 2026 (program cofinantat UE) - chatbot full-stack pentru sectorul public, construit impreuna cu o echipa de 3 persoane
-- Prezentator selectat la ACM womENcourage 2026 (Nice, Franta)
-- Explorez in continuare LLM-uri, RAG si arhitecturi full-stack moderne
+- 💼 **Full-Stack Developer Intern @ Concentrix** — built [SkillPath](https://github.com/ioana735/SkillPath), a skill-assessment & mentoring platform with Google Gemini integration (Next.js, Supabase, 30+ merged PRs)
+- 🏆 **1st Place, TEDIHT Hackathon 2026** — [RAG helpdesk chatbot](https://github.com/ioana735/HelpDesk-Hackathon) for the Romanian public sector
+- 🎤 **Poster presenter at ACM womENcourage 2026** (Nice, France)
+- 📱 Side project: [Stressy](https://github.com/ioana735/Stressy), an exam-focused study planner & tracker in Flutter (in development, release coming soon)
 
-Stack: React, Next.js, TypeScript, Supabase, Node.js, Python
+**Stack:** TypeScript · React · Next.js · Node.js · Supabase / PostgreSQL · Python · LLMs & RAG · Flutter
 
-LinkedIn: https://www.linkedin.com/in/ioana-nitan-b28ab9351/
+📫 [LinkedIn](https://www.linkedin.com/in/ioana-nitan-b28ab9351/) · nitan.ioana@gmail.com
